@@ -244,249 +244,211 @@
   
 
     
-      "hotels": [
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,delhi",
-          "Title": "Product 1",
-          "Price": 19.99,
-          "Ac": true,
-          "Rating": 4.5,
-          "City": "Delhi"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,mumbai",
-          "Title": "Product 2",
-          "Price": 29.99,
-          "Ac": false,
-          "Rating": 3.8,
-          "City": "Mumbai"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,chennai",
-          "Title": "Product 3",
-          "Price": 39.99,
-          "Ac": true,
-          "Rating": 4.2,
-          "City": "Chennai"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,kolkata",
-          "Title": "Product 4",
-          "Price": 49.99,
-          "Ac": false,
-          "Rating": 4.0,
-          "City": "Kolkata"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,bangalore",
-          "Title": "Product 5",
-          "Price": 59.99,
-          "Ac": true,
-          "Rating": 4.8,
-          "City": "Bangalore"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,hyderabad",
-          "Title": "Product 6",
-          "Price": 69.99,
-          "Ac": false,
-          "Rating": 3.5,
-          "City": "Hyderabad"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,ahmedabad",
-          "Title": "Product 7",
-          "Price": 79.99,
-          "Ac": true,
-          "Rating": 4.1,
-          "City": "Ahmedabad"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,pune",
-          "Title": "Product 8",
-          "Price": 89.99,
-          "Ac": true,
-          "Rating": 4.7,
-          "City": "Pune"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,jaipur",
-          "Title": "Product 9",
-          "Price": 99.99,
-          "Ac": false,
-          "Rating": 3.9,
-          "City": "Jaipur"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,kanpur",
-          "Title": "Product 10",
-          "Price": 109.99,
-          "Ac": true,
-          "Rating": 4.6,
-          "City": "Kanpur"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,lucknow",
-          "Title": "Product 11",
-          "Price": 119.99,
-          "Ac": false,
-          "Rating": 3.6,
-          "City": "Lucknow"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,nagpur",
-          "Title": "Product 12",
-          "Price": 129.99,
-          "Ac": true,
-          "Rating": 4.4,
-          "City": "Nagpur"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,thane",
-          "Title": "Product 13",
-          "Price": 139.99,
-          "Ac": true,
-          "Rating": 4.9,
-          "City": "Thane"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,bhopal",
-          "Title": "Product 14",
-          "Price": 149.99,
-          "Ac": false,
-          "Rating": 3.7,
-          "City": "Bhopal"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,patna",
-          "Title": "Product 15",
-          "Price": 159.99,
-          "Ac": true,
-          "Rating": 4.3,
-          "City": "Patna"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,vadodara",
-          "Title": "Product 16",
-          "Price": 169.99,
-          "Ac": false,
-          "Rating": 3.4,
-          "City": "Vadodara"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,ludhiana",
-          "Title": "Product 17",
-          "Price": 179.99,
-          "Ac": true,
-          "Rating": 4.0,
-          "City": "Ludhiana"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,agra",
-          "Title": "Product 18",
-          "Price": 189.99,
-          "Ac": false,
-          "Rating": 3.8,
-          "City": "Agra"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,faridabad",
-          "Title": "Product 19",
-          "Price": 199.99,
-          "Ac": true,
-          "Rating": 4.5,
-          "City": "Faridabad"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,meerut",
-          "Title": "Product 20",
-          "Price": 209.99,
-          "Ac": true,
-          "Rating": 4.2,
-          "City": "Meerut"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,rajkot",
-          "Title": "Product 21",
-          "Price": 219.99,
-          "Ac": false,
-          "Rating": 3.9,
-          "City": "Rajkot"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,kalyan-dombivali",
-          "Title": "Product 22",
-          "Price": 229.99,
-          "Ac": true,
-          "Rating": 4.8,
-          "City": "Kalyan-Dombivali"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,vasai-virar",
-          "Title": "Product 23",
-          "Price": 239.99,
-          "Ac": true,
-          "Rating": 4.1,
-          "City": "Vasai-Virar"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,varanasi",
-          "Title": "Product 24",
-          "Price": 249.99,
-          "Ac": false,
-          "Rating": 3.9,
-          "City": "Varanasi"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,srinagar",
-          "Title": "Product 25",
-          "Price": 259.99,
-          "Ac": true,
-          "Rating": 4.7,
-          "City": "Srinagar"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,aurangabad",
-          "Title": "Product 26",
-          "Price": 269.99,
-          "Ac": true,
-          "Rating": 4.3,
-          "City": "Aurangabad"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,dhanbad",
-          "Title": "Product 27",
-          "Price": 279.99,
-          "Ac": false,
-          "Rating": 3.6,
-          "City": "Dhanbad"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,amritsar",
-          "Title": "Product 28",
-          "Price": 289.99,
-          "Ac": true,
-          "Rating": 4.5,
-          "City": "Amritsar"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,allahabad",
-          "Title": "Product 29",
-          "Price": 299.99,
-          "Ac": true,
-          "Rating": 4.0,
-          "City": "Allahabad"
-        },
-        {
-          "Images": "https://source.unsplash.com/400x300/?india,ranchi",
-          "Title": "Product 30",
-          "Price": 309.99,
-          "Ac": false,
-          "Rating": 3.8,
-          "City": "Ranchi"
-        }
-      ]
-    
+  
+  "hotels": [
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,mumbai",
+      "Title": "Mumbai Hotel 1",
+      "Price": 29.99,
+      "Ac": false,
+      "Rating": 3.8,
+      "City": "Mumbai"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,mumbai",
+      "Title": "Mumbai Hotel 2",
+      "Price": 39.99,
+      "Ac": true,
+      "Rating": 4.2,
+      "City": "Mumbai"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,mumbai",
+      "Title": "Mumbai Hotel 3",
+      "Price": 49.99,
+      "Ac": false,
+      "Rating": 4.0,
+      "City": "Mumbai"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,mumbai",
+      "Title": "Mumbai Hotel 4",
+      "Price": 59.99,
+      "Ac": true,
+      "Rating": 4.8,
+      "City": "Mumbai"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,mumbai",
+      "Title": "Mumbai Hotel 5",
+      "Price": 69.99,
+      "Ac": false,
+      "Rating": 3.5,
+      "City": "Mumbai"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,bangalore",
+      "Title": "Bangalore Hotel 1",
+      "Price": 59.99,
+      "Ac": true,
+      "Rating": 4.8,
+      "City": "Bangalore"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,bangalore",
+      "Title": "Bangalore Hotel 2",
+      "Price": 69.99,
+      "Ac": false,
+      "Rating": 3.5,
+      "City": "Bangalore"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,bangalore",
+      "Title": "Bangalore Hotel 3",
+      "Price": 79.99,
+      "Ac": true,
+      "Rating": 4.1,
+      "City": "Bangalore"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,bangalore",
+      "Title": "Bangalore Hotel 4",
+      "Price": 89.99,
+      "Ac": true,
+      "Rating": 4.7,
+      "City": "Bangalore"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,bangalore",
+      "Title": "Bangalore Hotel 5",
+      "Price": 99.99,
+      "Ac": false,
+      "Rating": 3.9,
+      "City": "Bangalore"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,delhi",
+      "Title": "Delhi Hotel 1",
+      "Price": 19.99,
+      "Ac": true,
+      "Rating": 4.5,
+      "City": "Delhi"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,delhi",
+      "Title": "Delhi Hotel 2",
+      "Price": 29.99,
+      "Ac": false,
+      "Rating": 3.8,
+      "City": "Delhi"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,delhi",
+      "Title": "Delhi Hotel 3",
+      "Price": 39.99,
+      "Ac": true,
+      "Rating": 4.2,
+      "City": "Delhi"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,delhi",
+      "Title": "Delhi Hotel 4",
+      "Price": 49.99,
+      "Ac": false,
+      "Rating": 4.0,
+      "City": "Delhi"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,delhi",
+      "Title": "Delhi Hotel 5",
+      "Price": 59.99,
+      "Ac": true,
+      "Rating": 4.8,
+      "City": "Delhi"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,bhopal",
+      "Title": "Bhopal Hotel 1",
+      "Price": 149.99,
+      "Ac": false,
+      "Rating": 3.7,
+      "City": "Bhopal"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,bhopal",
+      "Title": "Bhopal Hotel 2",
+      "Price": 159.99,
+      "Ac": true,
+      "Rating": 4.3,
+      "City": "Bhopal"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,bhopal",
+      "Title": "Bhopal Hotel 3",
+      "Price": 169.99,
+      "Ac": true,
+      "Rating": 4.9,
+      "City": "Bhopal"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,bhopal",
+      "Title": "Bhopal Hotel 4",
+      "Price": 179.99,
+      "Ac": false,
+      "Rating": 3.8,
+      "City": "Bhopal"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,bhopal",
+      "Title": "Bhopal Hotel 5",
+      "Price": 189.99,
+      "Ac": true,
+      "Rating": 4.5,
+      "City": "Bhopal"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,indore",
+      "Title": "Indore Hotel 1",
+      "Price": 209.99,
+      "Ac": true,
+      "Rating": 4.2,
+      "City": "Indore"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,indore",
+      "Title": "Indore Hotel 2",
+      "Price": 219.99,
+      "Ac": false,
+      "Rating": 3.9,
+      "City": "Indore"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,indore",
+      "Title": "Indore Hotel 3",
+      "Price": 229.99,
+      "Ac": true,
+      "Rating": 4.8,
+      "City": "Indore"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,indore",
+      "Title": "Indore Hotel 4",
+      "Price": 239.99,
+      "Ac": true,
+      "Rating": 4.0,
+      "City": "Indore"
+    },
+    {
+      "Images": "https://source.unsplash.com/400x300/?india,indore",
+      "Title": "Indore Hotel 5",
+      "Price": 249.99,
+      "Ac": false,
+      "Rating": 3.6,
+      "City": "Indore"
+    }
+  ]
+
+
     
 
 }
