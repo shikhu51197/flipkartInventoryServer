@@ -239,5 +239,252 @@
             "sold": 28,
             "image": "https://source.unsplash.com/400x300/?corduroypants"
           }
+    ],
+    
+    "hotels": [
+      {
+        "img": "https://source.unsplash.com/400x300/?india,delhi",
+        "title": "Product 1",
+        "price": 1999,
+        "ac": true,
+        "rating": 4.5,
+        "city": "Delhi"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,mumbai",
+        "title": "Product 2",
+        "price": 2999,
+        "ac": false,
+        "rating": 3.8,
+        "city": "Mumbai"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,bangalore",
+        "title": "Product 3",
+        "price": 3999,
+        "ac": true,
+        "rating": 4.2,
+        "city": "Bangalore"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,hyderabad",
+        "title": "Product 4",
+        "price": 4999,
+        "ac": false,
+        "rating": 4.0,
+        "city": "Hyderabad"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,chennai",
+        "title": "Product 5",
+        "price": 5999,
+        "ac": true,
+        "rating": 4.8,
+        "city": "Chennai"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,kolkata",
+        "title": "Product 6",
+        "price": 6999,
+        "ac": false,
+        "rating": 3.5,
+        "city": "Kolkata"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,ahmedabad",
+        "title": "Product 7",
+        "price": 7999,
+        "ac": true,
+        "rating": 4.1,
+        "city": "Ahmedabad"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,pune",
+        "title": "Product 8",
+        "price": 8999,
+        "ac": true,
+        "rating": 4.7,
+        "city": "Pune"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,jaipur",
+        "title": "Product 9",
+        "price": 9999,
+        "ac": false,
+        "rating": 3.9,
+        "city": "Jaipur"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,lucknow",
+        "title": "Product 10",
+        "price": 10999,
+        "ac": true,
+        "rating": 4.6,
+        "city": "Lucknow"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,patna",
+        "title": "Product 11",
+        "price": 11999,
+        "ac": false,
+        "rating": 3.6,
+        "city": "Patna"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,indore",
+        "title": "Product 12",
+        "price": 12999,
+        "ac": true,
+        "rating": 4.4,
+        "city": "Indore"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,kanpur",
+        "title": "Product 13",
+        "price": 13999,
+        "ac": true,
+        "rating": 4.9,
+        "city": "Kanpur"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,nagpur",
+        "title": "Product 14",
+        "price": 14999,
+        "ac": false,
+        "rating": 3.7,
+        "city": "Nagpur"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,thane",
+        "title": "Product 15",
+        "price": 15999,
+        "ac": true,
+        "rating": 4.3,
+        "city": "Thane"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,amritsar",
+        "title": "Product 16",
+        "price": 16999,
+        "ac": false,
+        "rating": 3.4,
+        "city": "Amritsar"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,varanasi",
+        "title": "Product 17",
+        "price": 17999,
+        "ac": true,
+        "rating": 4.0,
+        "city": "Varanasi"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,coimbatore",
+        "title": "Product 18",
+        "price": 18999,
+        "ac": false,
+        "rating": 3.8,
+        "city": "Coimbatore"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,ludhiana",
+        "title": "Product 19",
+        "price": 19999,
+        "ac": true,
+        "rating": 4.5,
+        "city": "Ludhiana"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,guwahati",
+        "title": "Product 20",
+        "price": 20999,
+        "ac": true,
+        "rating": 4.2,
+        "city": "Guwahati"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,visakhapatnam",
+        "title": "Product 21",
+        "price": 21999,
+        "ac": false,
+        "rating": 3.9,
+        "city": "Visakhapatnam"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,jodhpur",
+        "title": "Product 22",
+        "price": 22999,
+        "ac": true,
+        "rating": 4.8,
+        "city": "Jodhpur"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,raipur",
+        "title": "Product 23",
+        "price": 23999,
+        "ac": false,
+        "rating": 3.5,
+        "city": "Raipur"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,gandhinagar",
+        "title": "Product 24",
+        "price": 24999,
+        "ac": true,
+        "rating": 4.1,
+        "city": "Gandhinagar"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,shimla",
+        "title": "Product 25",
+        "price": 25999,
+        "ac": true,
+        "rating": 4.7,
+        "city": "Shimla"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,allahabad",
+        "title": "Product 26",
+        "price": 26999,
+        "ac": false,
+        "rating": 3.9,
+        "city": "Allahabad"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,patiala",
+        "title": "Product 27",
+        "price": 27999,
+        "ac": true,
+        "rating": 4.6,
+        "city": "Patiala"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,surat",
+        "title": "Product 28",
+        "price": 28999,
+        "ac": false,
+        "rating": 3.6,
+        "city": "Surat"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,ghaziabad",
+        "title": "Product 29",
+        "price": 29999,
+        "ac": true,
+        "rating": 4.4,
+        "city": "Ghaziabad"
+      },
+      {
+        "img": "https://source.unsplash.com/400x300/?india,meerut",
+        "title": "Product 30",
+        "price": 30999,
+        "ac": false,
+        "rating": 3.7,
+        "city": "Meerut"
+      }
     ]
+
 }
+
+
+
