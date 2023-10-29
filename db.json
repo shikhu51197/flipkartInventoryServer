@@ -449,8 +449,10 @@
   ],
 
  
+  
     "products": [
       {
+        "id": 1,
         "name": "Product 1",
         "price": 19.99,
         "description": "Description of Product 1.",
@@ -458,6 +460,7 @@
         "image": "https://source.unsplash.com/600x400/?product1"
       },
       {
+        "id": 2,
         "name": "Product 2",
         "price": 29.99,
         "description": "Description of Product 2.",
@@ -465,6 +468,7 @@
         "image": "https://source.unsplash.com/600x400/?product2"
       },
       {
+        "id": 3,
         "name": "Product 3",
         "price": 39.99,
         "description": "Description of Product 3.",
@@ -472,6 +476,7 @@
         "image": "https://source.unsplash.com/600x400/?product3"
       },
       {
+        "id": 4,
         "name": "Product 4",
         "price": 49.99,
         "description": "Description of Product 4.",
@@ -479,6 +484,7 @@
         "image": "https://source.unsplash.com/600x400/?product4"
       },
       {
+        "id": 5,
         "name": "Product 5",
         "price": 59.99,
         "description": "Description of Product 5.",
@@ -486,6 +492,7 @@
         "image": "https://source.unsplash.com/600x400/?product5"
       },
       {
+        "id": 6,
         "name": "Product 6",
         "price": 69.99,
         "description": "Description of Product 6.",
@@ -493,6 +500,7 @@
         "image": "https://source.unsplash.com/600x400/?product6"
       },
       {
+        "id": 7,
         "name": "Product 7",
         "price": 79.99,
         "description": "Description of Product 7.",
@@ -500,6 +508,7 @@
         "image": "https://source.unsplash.com/600x400/?product7"
       },
       {
+        "id": 8,
         "name": "Product 8",
         "price": 89.99,
         "description": "Description of Product 8.",
@@ -507,6 +516,7 @@
         "image": "https://source.unsplash.com/600x400/?product8"
       },
       {
+        "id": 9,
         "name": "Product 9",
         "price": 99.99,
         "description": "Description of Product 9.",
@@ -514,6 +524,7 @@
         "image": "https://source.unsplash.com/600x400/?product9"
       },
       {
+        "id": 10,
         "name": "Product 10",
         "price": 109.99,
         "description": "Description of Product 10.",
@@ -521,6 +532,7 @@
         "image": "https://source.unsplash.com/600x400/?product10"
       },
       {
+        "id": 11,
         "name": "Product 11",
         "price": 119.99,
         "description": "Description of Product 11.",
@@ -528,6 +540,7 @@
         "image": "https://source.unsplash.com/600x400/?product11"
       },
       {
+        "id": 12,
         "name": "Product 12",
         "price": 129.99,
         "description": "Description of Product 12.",
@@ -535,6 +548,7 @@
         "image": "https://source.unsplash.com/600x400/?product12"
       },
       {
+        "id": 13,
         "name": "Product 13",
         "price": 139.99,
         "description": "Description of Product 13.",
@@ -542,6 +556,7 @@
         "image": "https://source.unsplash.com/600x400/?product13"
       },
       {
+        "id": 14,
         "name": "Product 14",
         "price": 149.99,
         "description": "Description of Product 14.",
@@ -549,6 +564,7 @@
         "image": "https://source.unsplash.com/600x400/?product14"
       },
       {
+        "id": 15,
         "name": "Product 15",
         "price": 159.99,
         "description": "Description of Product 15.",
@@ -556,6 +572,7 @@
         "image": "https://source.unsplash.com/600x400/?product15"
       },
       {
+        "id": 16,
         "name": "Product 16",
         "price": 169.99,
         "description": "Description of Product 16.",
@@ -563,6 +580,7 @@
         "image": "https://source.unsplash.com/600x400/?product16"
       },
       {
+        "id": 17,
         "name": "Product 17",
         "price": 179.99,
         "description": "Description of Product 17.",
@@ -570,6 +588,7 @@
         "image": "https://source.unsplash.com/600x400/?product17"
       },
       {
+        "id": 18,
         "name": "Product 18",
         "price": 189.99,
         "description": "Description of Product 18.",
@@ -577,6 +596,7 @@
         "image": "https://source.unsplash.com/600x400/?product18"
       },
       {
+        "id": 19,
         "name": "Product 19",
         "price": 199.99,
         "description": "Description of Product 19.",
@@ -584,6 +604,7 @@
         "image": "https://source.unsplash.com/600x400/?product19"
       },
       {
+        "id": 20,
         "name": "Product 20",
         "price": 209.99,
         "description": "Description of Product 20.",
@@ -591,6 +612,8 @@
         "image": "https://source.unsplash.com/600x400/?product20"
       }
     ]
+  
+  
   
   
     
