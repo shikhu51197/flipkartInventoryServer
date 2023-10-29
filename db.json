@@ -446,9 +446,153 @@
       "Rating": 3.6,
       "City": "Indore"
     }
-  ]
+  ],
 
-
+ 
+    "products": [
+      {
+        "name": "Product 1",
+        "price": 19.99,
+        "description": "Description of Product 1.",
+        "delivery": "2-3 business days",
+        "image": "https://source.unsplash.com/600x400/?product1"
+      },
+      {
+        "name": "Product 2",
+        "price": 29.99,
+        "description": "Description of Product 2.",
+        "delivery": "3-5 business days",
+        "image": "https://source.unsplash.com/600x400/?product2"
+      },
+      {
+        "name": "Product 3",
+        "price": 39.99,
+        "description": "Description of Product 3.",
+        "delivery": "1-2 business days",
+        "image": "https://source.unsplash.com/600x400/?product3"
+      },
+      {
+        "name": "Product 4",
+        "price": 49.99,
+        "description": "Description of Product 4.",
+        "delivery": "4-6 business days",
+        "image": "https://source.unsplash.com/600x400/?product4"
+      },
+      {
+        "name": "Product 5",
+        "price": 59.99,
+        "description": "Description of Product 5.",
+        "delivery": "2-4 business days",
+        "image": "https://source.unsplash.com/600x400/?product5"
+      },
+      {
+        "name": "Product 6",
+        "price": 69.99,
+        "description": "Description of Product 6.",
+        "delivery": "3-5 business days",
+        "image": "https://source.unsplash.com/600x400/?product6"
+      },
+      {
+        "name": "Product 7",
+        "price": 79.99,
+        "description": "Description of Product 7.",
+        "delivery": "1-3 business days",
+        "image": "https://source.unsplash.com/600x400/?product7"
+      },
+      {
+        "name": "Product 8",
+        "price": 89.99,
+        "description": "Description of Product 8.",
+        "delivery": "2-4 business days",
+        "image": "https://source.unsplash.com/600x400/?product8"
+      },
+      {
+        "name": "Product 9",
+        "price": 99.99,
+        "description": "Description of Product 9.",
+        "delivery": "3-6 business days",
+        "image": "https://source.unsplash.com/600x400/?product9"
+      },
+      {
+        "name": "Product 10",
+        "price": 109.99,
+        "description": "Description of Product 10.",
+        "delivery": "1-2 business days",
+        "image": "https://source.unsplash.com/600x400/?product10"
+      },
+      {
+        "name": "Product 11",
+        "price": 119.99,
+        "description": "Description of Product 11.",
+        "delivery": "4-5 business days",
+        "image": "https://source.unsplash.com/600x400/?product11"
+      },
+      {
+        "name": "Product 12",
+        "price": 129.99,
+        "description": "Description of Product 12.",
+        "delivery": "2-3 business days",
+        "image": "https://source.unsplash.com/600x400/?product12"
+      },
+      {
+        "name": "Product 13",
+        "price": 139.99,
+        "description": "Description of Product 13.",
+        "delivery": "3-4 business days",
+        "image": "https://source.unsplash.com/600x400/?product13"
+      },
+      {
+        "name": "Product 14",
+        "price": 149.99,
+        "description": "Description of Product 14.",
+        "delivery": "1-5 business days",
+        "image": "https://source.unsplash.com/600x400/?product14"
+      },
+      {
+        "name": "Product 15",
+        "price": 159.99,
+        "description": "Description of Product 15.",
+        "delivery": "2-3 business days",
+        "image": "https://source.unsplash.com/600x400/?product15"
+      },
+      {
+        "name": "Product 16",
+        "price": 169.99,
+        "description": "Description of Product 16.",
+        "delivery": "3-4 business days",
+        "image": "https://source.unsplash.com/600x400/?product16"
+      },
+      {
+        "name": "Product 17",
+        "price": 179.99,
+        "description": "Description of Product 17.",
+        "delivery": "1-2 business days",
+        "image": "https://source.unsplash.com/600x400/?product17"
+      },
+      {
+        "name": "Product 18",
+        "price": 189.99,
+        "description": "Description of Product 18.",
+        "delivery": "4-5 business days",
+        "image": "https://source.unsplash.com/600x400/?product18"
+      },
+      {
+        "name": "Product 19",
+        "price": 199.99,
+        "description": "Description of Product 19.",
+        "delivery": "2-3 business days",
+        "image": "https://source.unsplash.com/600x400/?product19"
+      },
+      {
+        "name": "Product 20",
+        "price": 209.99,
+        "description": "Description of Product 20.",
+        "delivery": "3-4 business days",
+        "image": "https://source.unsplash.com/600x400/?product20"
+      }
+    ]
+  
+  
     
 
 }
