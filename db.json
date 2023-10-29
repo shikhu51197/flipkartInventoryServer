@@ -1,0 +1,243 @@
+{
+    "menu":[
+        {
+            "id": 1,
+            "name": "Casual Cotton Tee",
+            "price": 15.99,
+            "category": "t-shirts",
+            "sold": 50,
+            "image": "https://source.unsplash.com/400x300/?tshirt"
+          },
+          {
+            "id": 2,
+            "name": "Graphic Print Tee",
+            "price": 19.99,
+            "category": "t-shirts",
+            "sold": 35,
+            "image": "https://source.unsplash.com/400x300/?graphic-tshirt"
+          },
+          {
+            "id": 3,
+            "name": "Basic White T-Shirt",
+            "price": 12.99,
+            "category": "t-shirts",
+            "sold": 28,
+            "image": "https://source.unsplash.com/400x300/?whitetshirt"
+          },
+          {
+            "id": 4,
+            "name": "Striped Long Sleeve Tee",
+            "price": 24.99,
+            "category": "t-shirts",
+            "sold": 20,
+            "image": "https://source.unsplash.com/400x300/?stripedtshirt"
+          },
+          {
+            "id": 5,
+            "name": "Vintage Logo Tee",
+            "price": 18.99,
+            "category": "t-shirts",
+            "sold": 42,
+            "image": "https://source.unsplash.com/400x300/?vintagetshirt"
+          },
+          {
+            "id": 6,
+            "name": "Sports Jersey Tee",
+            "price": 21.99,
+            "category": "t-shirts",
+            "sold": 30,
+            "image": "https://source.unsplash.com/400x300/?sportstshirt"
+          },
+          {
+            "id": 7,
+            "name": "Floral Print T-Shirt",
+            "price": 17.99,
+            "category": "t-shirts",
+            "sold": 25,
+            "image": "https://source.unsplash.com/400x300/?floraltshirt"
+          },
+          {
+            "id": 8,
+            "name": "Oversized Pocket Tee",
+            "price": 22.99,
+            "category": "t-shirts",
+            "sold": 18,
+            "image": "https://source.unsplash.com/400x300/?oversizedtshirt"
+          },
+          {
+            "id": 9,
+            "name": "Tie-Dye Short Sleeve",
+            "price": 14.99,
+            "category": "t-shirts",
+            "sold": 38,
+            "image": "https://source.unsplash.com/400x300/?tiedyetshirt"
+          },
+          {
+            "id": 10,
+            "name": "Slim Fit Crewneck",
+            "price": 20.99,
+            "category": "t-shirts",
+            "sold": 33,
+            "image": "https://source.unsplash.com/400x300/?crewnecktshirt"
+          },
+          {
+            "id": 101,
+            "name": "Running Sneakers",
+            "price": 59.99,
+            "category": "shoes",
+            "sold": 15,
+            "image": "https://source.unsplash.com/400x300/?shoes"
+          },
+          {
+            "id": 102,
+            "name": "Classic White Trainers",
+            "price": 49.99,
+            "category": "shoes",
+            "sold": 22,
+            "image": "https://source.unsplash.com/400x300/?whitetrainers"
+          },
+          {
+            "id": 103,
+            "name": "High-Top Basketball Shoes",
+            "price": 69.99,
+            "category": "shoes",
+            "sold": 12,
+            "image": "https://source.unsplash.com/400x300/?hightopshoes"
+          },
+          {
+            "id": 104,
+            "name": "Slip-On Canvas Shoes",
+            "price": 39.99,
+            "category": "shoes",
+            "sold": 30,
+            "image": "https://source.unsplash.com/400x300/?sliponshoes"
+          },
+          {
+            "id": 105,
+            "name": "Leather Ankle Boots",
+            "price": 79.99,
+            "category": "shoes",
+            "sold": 18,
+            "image": "https://source.unsplash.com/400x300/?ankleboots"
+          },
+          {
+            "id": 106,
+            "name": "Hiking Boots",
+            "price": 89.99,
+            "category": "shoes",
+            "sold": 10,
+            "image": "https://source.unsplash.com/400x300/?hikingboots"
+          },
+          {
+            "id": 107,
+            "name": "Casual Loafers",
+            "price": 54.99,
+            "category": "shoes",
+            "sold": 25,
+            "image": "https://source.unsplash.com/400x300/?loafers"
+          },
+          {
+            "id": 108,
+            "name": "Fashionable Heels",
+            "price": 64.99,
+            "category": "shoes",
+            "sold": 20,
+            "image": "https://source.unsplash.com/400x300/?heels"
+          },
+          {
+            "id": 109,
+            "name": "Retro Style Sneakers",
+            "price": 44.99,
+            "category": "shoes",
+            "sold": 28,
+            "image": "https://source.unsplash.com/400x300/?retrosneakers"
+          },
+          {
+            "id": 110,
+            "name": "Slip-Resistant Work Shoes",
+            "price": 74.99,
+            "category": "shoes",
+            "sold": 8,
+            "image": "https://source.unsplash.com/400x300/?workshoes"
+          },{
+            "id": 201,
+            "name": "Slim-Fit Denim Jeans",
+            "price": 34.99,
+            "category": "trousers",
+            "sold": 40,
+            "image": "https://source.unsplash.com/400x300/?trousers"
+          },
+          {
+            "id": 202,
+            "name": "Khaki Chinos",
+            "price": 29.99,
+            "category": "trousers",
+            "sold": 32,
+            "image": "https://source.unsplash.com/400x300/?khakichinos"
+          },
+          {
+            "id": 203,
+            "name": "Jogger Pants",
+            "price": 24.99,
+            "category": "trousers",
+            "sold": 45,
+            "image": "https://source.unsplash.com/400x300/?joggerpants"
+          },
+          {
+            "id": 204,
+            "name": "Cargo Trousers",
+            "price": 39.99,
+            "category": "trousers",
+            "sold": 25,
+            "image": "https://source.unsplash.com/400x300/?cargotrousers"
+          },
+          {
+            "id": 205,
+            "name": "Formal Dress Pants",
+            "price": 49.99,
+            "category": "trousers",
+            "sold": 18,
+            "image": "https://source.unsplash.com/400x300/?formaldresspants"
+          },
+          {
+            "id": 206,
+            "name": "Patterned Leggings",
+            "price": 19.99,
+            "category": "trousers",
+            "sold": 35,
+            "image": "https://source.unsplash.com/400x300/?leggings"
+          },
+          {
+            "id": 207,
+            "name": "Linen Summer Trousers",
+            "price": 27.99,
+            "category": "trousers",
+            "sold": 30,
+            "image": "https://source.unsplash.com/400x300/?linentrousers"
+          },
+          {
+            "id": 208,
+            "name": "Wide-Leg Palazzo Pants",
+            "price": 42.99,
+            "category": "trousers",
+            "sold": 22,
+            "image": "https://source.unsplash.com/400x300/?palazzopants"
+          },
+          {
+            "id": 209,
+            "name": "Track Pants",
+            "price": 22.99,
+            "category": "trousers",
+            "sold": 38,
+            "image": "https://source.unsplash.com/400x300/?trackpants"
+          },
+          {
+            "id": 210,
+            "name": "Corduroy Straight-Leg Pants",
+            "price": 37.99,
+            "category": "trousers",
+            "sold": 28,
+            "image": "https://source.unsplash.com/400x300/?corduroypants"
+          }
+    ]
+}
