@@ -958,5 +958,23 @@
       "rating": 4.5,
       "description": "A nourishing bowl with quinoa, roasted vegetables, avocado, and tahini sauce."
     }
+  ],
+  "register":[
+    {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "securepassword123",
+    "username": "johndoe",
+    "mobile": "1234567890",
+    "description": "A new user account"
+  }
+  ],
+  "login":[
+    {
+   
+    "password": "securepassword123",
+    "username": "johndoe"
+    
+  }
   ]
 }
