@@ -796,5 +796,167 @@
       "score": 72,
       "pass": false
     }
-    ]
+  ],
+  "store": [
+    {
+      "id": 1,
+      "name": "Deluxe Burger",
+      "price": 10.99,
+      "image": "https://source.unsplash.com/500x400/?burger",
+      "rating": 4.8,
+      "description": "Juicy beef patty, cheddar cheese, lettuce, and special sauce on a toasted bun."
+    },
+    {
+      "id": 2,
+      "name": "Margherita Pizza",
+      "price": 12.99,
+      "image": "https://source.unsplash.com/500x400/?pizza",
+      "rating": 4.5,
+      "description": "Classic pizza with fresh mozzarella, tomatoes, basil, and a drizzle of olive oil."
+    },
+    {
+      "id": 3,
+      "name": "Spaghetti Bolognese",
+      "price": 14.99,
+      "image": "https://source.unsplash.com/500x400/?spaghetti",
+      "rating": 4.2,
+      "description": "Spaghetti served with a rich and savory Bolognese sauce."
+    },
+    {
+      "id": 4,
+      "name": "Caesar Salad",
+      "price": 8.99,
+      "image": "https://source.unsplash.com/500x400/?salad",
+      "rating": 4.6,
+      "description": "Fresh romaine lettuce, croutons, parmesan cheese, and Caesar dressing."
+    },
+    {
+      "id": 5,
+      "name": "Sushi Platter",
+      "price": 18.99,
+      "image": "https://source.unsplash.com/500x400/?sushi",
+      "rating": 4.9,
+      "description": "Assorted sushi rolls with fresh seafood and pickled ginger."
+    },
+    {
+      "id": 6,
+      "name": "Vegetarian Wrap",
+      "price": 9.99,
+      "image": "https://source.unsplash.com/500x400/?wrap",
+      "rating": 4.4,
+      "description": "Grilled vegetables, hummus, and feta cheese wrapped in a soft tortilla."
+    },
+    {
+      "id": 7,
+      "name": "Chicken Noodle Soup",
+      "price": 7.99,
+      "image": "https://source.unsplash.com/500x400/?soup",
+      "rating": 4.7,
+      "description": "Comforting soup with tender chicken, vegetables, and egg noodles."
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Brownie",
+      "price": 5.99,
+      "image": "https://source.unsplash.com/500x400/?brownie",
+      "rating": 4.3,
+      "description": "Rich and gooey chocolate brownie topped with a scoop of vanilla ice cream."
+    },
+    {
+      "id": 9,
+      "name": "Pasta Primavera",
+      "price": 13.99,
+      "image": "https://source.unsplash.com/500x400/?pasta",
+      "rating": 4.5,
+      "description": "Pasta with a medley of fresh, colorful vegetables in a light cream sauce."
+    },
+    {
+      "id": 10,
+      "name": "Caprese Panini",
+      "price": 11.99,
+      "image": "https://source.unsplash.com/500x400/?panini",
+      "rating": 4.6,
+      "description": "Grilled panini with mozzarella, tomatoes, basil, and balsamic glaze."
+    },
+    {
+      "id": 11,
+      "name": "Mango Smoothie",
+      "price": 4.99,
+      "image": "https://source.unsplash.com/500x400/?smoothie",
+      "rating": 4.8,
+      "description": "Refreshing smoothie with ripe mango, yogurt, and a hint of honey."
+    },
+    {
+      "id": 12,
+      "name": "Pho Noodle Soup",
+      "price": 10.99,
+      "image": "https://source.unsplash.com/500x400/?pho",
+      "rating": 4.2,
+      "description": "Vietnamese noodle soup with aromatic broth, rice noodles, and herbs."
+    },
+    {
+      "id": 13,
+      "name": "Avocado Toast",
+      "price": 6.99,
+      "image": "https://source.unsplash.com/500x400/?avocado",
+      "rating": 4.7,
+      "description": "Sliced avocado on toasted whole grain bread with a sprinkle of sea salt."
+    },
+    {
+      "id": 14,
+      "name": "Greek Gyro",
+      "price": 12.99,
+      "image": "https://source.unsplash.com/500x400/?gyro",
+      "rating": 4.5,
+      "description": "Traditional Greek gyro with seasoned meat, tzatziki sauce, and veggies."
+    },
+    {
+      "id": 15,
+      "name": "Fruit Salad",
+      "price": 8.99,
+      "image": "https://source.unsplash.com/500x400/?fruitsalad",
+      "rating": 4.4,
+      "description": "A refreshing mix of seasonal fruits for a healthy and delicious salad."
+    },
+    {
+      "id": 16,
+      "name": "Lemonade",
+      "price": 3.99,
+      "image": "https://source.unsplash.com/500x400/?lemonade",
+      "rating": 4.6,
+      "description": "Homemade lemonade with freshly squeezed lemons and a touch of sweetness."
+    },
+    {
+      "id": 17,
+      "name": "BBQ Ribs",
+      "price": 16.99,
+      "image": "https://source.unsplash.com/500x400/?ribs",
+      "rating": 4.9,
+      "description": "Tender and smoky BBQ ribs served with coleslaw and baked beans."
+    },
+    {
+      "id": 18,
+      "name": "Cappuccino",
+      "price": 4.99,
+      "image": "https://source.unsplash.com/500x400/?cappuccino",
+      "rating": 4.3,
+      "description": "Double shot of espresso with steamed milk and a sprinkle of cocoa."
+    },
+    {
+      "id": 19,
+      "name": "Caesar Wrap",
+      "price": 9.99,
+      "image": "https://source.unsplash.com/500x400/?wrap",
+      "rating": 4.7,
+      "description": "Grilled chicken, romaine lettuce, croutons, and Caesar dressing in a wrap."
+    },
+    {
+      "id": 20,
+      "name": "Vegan Buddha Bowl",
+      "price": 11.99,
+      "image": "https://source.unsplash.com/500x400/?buddhabowl",
+      "rating": 4.5,
+      "description": "A nourishing bowl with quinoa, roasted vegetables, avocado, and tahini sauce."
+    }
+  ]
 }
