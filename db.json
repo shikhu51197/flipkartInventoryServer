@@ -973,156 +973,184 @@
 
   
     "articles": [
-      {
-        "country": "india",
-        "urlToImage": "https://source.unsplash.com/500x300/?india",
-        "title": "Exploring India's Rich Heritage",
-        "author": "Amit Patel"
-      },
-      {
-        "country": "india",
-        "urlToImage": "https://source.unsplash.com/500x300/?india",
-        "title": "Spices and Flavors of Indian Cuisine",
-        "author": "Priya Sharma"
-      },
-      {
-        "country": "india",
-        "urlToImage": "https://source.unsplash.com/500x300/?india",
-        "title": "Traditional Festivals in India",
-        "author": "Raj Gupta"
-      },
-      {
-        "country": "india",
-        "urlToImage": "https://source.unsplash.com/500x300/?india",
-        "title": "The Majestic Taj Mahal",
-        "author": "Anjali Singh"
-      },
-      {
-        "country": "india",
-        "urlToImage": "https://source.unsplash.com/500x300/?india",
-        "title": "Indian Wildlife Safari",
-        "author": "Sanjay Verma"
-      },
-      {
-        "country": "usa",
-        "urlToImage": "https://source.unsplash.com/500x300/?usa",
-        "title": "Innovation in Silicon Valley",
-        "author": "Mark Davis"
-      },
-      {
-        "country": "usa",
-        "urlToImage": "https://source.unsplash.com/500x300/?usa",
-        "title": "Exploring National Parks in the USA",
-        "author": "Emily Johnson"
-      },
-      {
-        "country": "usa",
-        "urlToImage": "https://source.unsplash.com/500x300/?usa",
-        "title": "Tech Giants and Congressional Hearings",
-        "author": "John Smith"
-      },
-      {
-        "country": "usa",
-        "urlToImage": "https://source.unsplash.com/500x300/?usa",
-        "title": "US History Uncovered",
-        "author": "Jessica Adams"
-      },
-      {
-        "country": "usa",
-        "urlToImage": "https://source.unsplash.com/500x300/?usa",
-        "title": "Culinary Delights in New York",
-        "author": "Michael Turner"
-      },
-      {
-        "country": "uk",
-        "urlToImage": "https://source.unsplash.com/500x300/?uk",
-        "title": "Exploring Historic Landmarks in the UK",
-        "author": "James Anderson"
-      },
-      {
-        "country": "uk",
-        "urlToImage": "https://source.unsplash.com/500x300/?uk",
-        "title": "Royal Family Updates",
-        "author": "Victoria Turner"
-      },
-      {
-        "country": "uk",
-        "urlToImage": "https://source.unsplash.com/500x300/?uk",
-        "title": "British Literature Classics",
-        "author": "Jonathan White"
-      },
-      {
-        "country": "uk",
-        "urlToImage": "https://source.unsplash.com/500x300/?uk",
-        "title": "Culinary Adventures in London",
-        "author": "Eleanor Clarke"
-      },
-      {
-        "country": "uk",
-        "urlToImage": "https://source.unsplash.com/500x300/?uk",
-        "title": "Art and Culture in the UK",
-        "author": "Sophie Johnson"
-      },
-      {
-        "country": "china",
-        "urlToImage": "https://source.unsplash.com/500x300/?china",
-        "title": "Technological Innovations in China",
-        "author": "Li Wei"
-      },
-      {
-        "country": "china",
-        "urlToImage": "https://source.unsplash.com/500x300/?china",
-        "title": "Traditional Chinese Festivals",
-        "author": "Xiao Ming"
-      },
-      {
-        "country": "china",
-        "urlToImage": "https://source.unsplash.com/500x300/?china",
-        "title": "Modern Architecture in China",
-        "author": "Zhang Lei"
-      },
-      {
-        "country": "china",
-        "urlToImage": "https://source.unsplash.com/500x300/?china",
-        "title": "Chinese Calligraphy Masterclass",
-        "author": "Wei Lin"
-      },
-      {
-        "country": "china",
-        "urlToImage": "https://source.unsplash.com/500x300/?china",
-        "title": "Discovering Ancient Chinese Traditions",
-        "author": "Yuan Chen"
-      },
-      {
-        "country": "nz",
-        "urlToImage": "https://source.unsplash.com/500x300/?nz",
-        "title": "Exploring Natural Wonders in New Zealand",
-        "author": "Liam Thompson"
-      },
-      {
-        "country": "nz",
-        "urlToImage": "https://source.unsplash.com/500x300/?nz",
-        "title": "Maori Culture and Heritage",
-        "author": "Kia Ora"
-      },
-      {
-        "country": "nz",
-        "urlToImage": "https://source.unsplash.com/500x300/?nz",
-        "title": "Adventure Sports in New Zealand",
-        "author": "Sarah Williams"
-      },
-      {
-        "country": "nz",
-        "urlToImage": "https://source.unsplash.com/500x300/?nz",
-        "title": "Wildlife Sanctuaries in New Zealand",
-        "author": "Jack Thompson"
-      },
-      {
-        "country": "nz",
-        "urlToImage": "https://source.unsplash.com/500x300/?nz",
-        "title": "Māori Performing Arts",
-        "author": "Aroha Smith"
-      }
+      
+        {
+          "country": "india",
+          "urlToImage": "https://source.unsplash.com/500x300/?india",
+          "title": "Exploring India's Rich Heritage",
+          "author": "Amit Patel",
+          "news": "twitter"
+        },
+        {
+          "country": "india",
+          "urlToImage": "https://source.unsplash.com/500x300/?india",
+          "title": "Spices and Flavors of Indian Cuisine",
+          "author": "Priya Sharma",
+          "news": "tesla"
+        },
+        {
+          "country": "india",
+          "urlToImage": "https://source.unsplash.com/500x300/?india",
+          "title": "Traditional Festivals in India",
+          "author": "Raj Gupta",
+          "news": "twitter"
+        },
+        {
+          "country": "india",
+          "urlToImage": "https://source.unsplash.com/500x300/?india",
+          "title": "The Majestic Taj Mahal",
+          "author": "Anjali Singh",
+          "news": "tesla"
+        },
+        {
+          "country": "india",
+          "urlToImage": "https://source.unsplash.com/500x300/?india",
+          "title": "Indian Wildlife Safari",
+          "author": "Sanjay Verma",
+          "news": "twitter"
+        },
+        {
+          "country": "usa",
+          "urlToImage": "https://source.unsplash.com/500x300/?usa",
+          "title": "Innovation in Silicon Valley",
+          "author": "Mark Davis",
+          "news": "tesla"
+        },
+        {
+          "country": "usa",
+          "urlToImage": "https://source.unsplash.com/500x300/?usa",
+          "title": "Exploring National Parks in the USA",
+          "author": "Emily Johnson",
+          "news": "twitter"
+        },
+        {
+          "country": "usa",
+          "urlToImage": "https://source.unsplash.com/500x300/?usa",
+          "title": "Tech Giants and Congressional Hearings",
+          "author": "John Smith",
+          "news": "tesla"
+        },
+        {
+          "country": "usa",
+          "urlToImage": "https://source.unsplash.com/500x300/?usa",
+          "title": "US History Uncovered",
+          "author": "Jessica Adams",
+          "news": "twitter"
+        },
+        {
+          "country": "usa",
+          "urlToImage": "https://source.unsplash.com/500x300/?usa",
+          "title": "Culinary Delights in New York",
+          "author": "Michael Turner",
+          "news": "tesla"
+        },
+        {
+          "country": "uk",
+          "urlToImage": "https://source.unsplash.com/500x300/?uk",
+          "title": "Exploring Historic Landmarks in the UK",
+          "author": "James Anderson",
+          "news": "twitter"
+        },
+        {
+          "country": "uk",
+          "urlToImage": "https://source.unsplash.com/500x300/?uk",
+          "title": "Royal Family Updates",
+          "author": "Victoria Turner",
+          "news": "tesla"
+        },
+        {
+          "country": "uk",
+          "urlToImage": "https://source.unsplash.com/500x300/?uk",
+          "title": "British Literature Classics",
+          "author": "Jonathan White",
+          "news": "twitter"
+        },
+        {
+          "country": "uk",
+          "urlToImage": "https://source.unsplash.com/500x300/?uk",
+          "title": "Culinary Adventures in London",
+          "author": "Eleanor Clarke",
+          "news": "tesla"
+        },
+        {
+          "country": "uk",
+          "urlToImage": "https://source.unsplash.com/500x300/?uk",
+          "title": "Art and Culture in the UK",
+          "author": "Sophie Johnson",
+          "news": "twitter"
+        },
+        {
+          "country": "china",
+          "urlToImage": "https://source.unsplash.com/500x300/?china",
+          "title": "Technological Innovations in China",
+          "author": "Li Wei",
+          "news": "tesla"
+        },
+        {
+          "country": "china",
+          "urlToImage": "https://source.unsplash.com/500x300/?china",
+          "title": "Traditional Chinese Festivals",
+          "author": "Xiao Ming",
+          "news": "twitter"
+        },
+        {
+          "country": "china",
+          "urlToImage": "https://source.unsplash.com/500x300/?china",
+          "title": "Modern Architecture in China",
+          "author": "Zhang Lei",
+          "news": "tesla"
+        },
+        {
+          "country": "china",
+          "urlToImage": "https://source.unsplash.com/500x300/?china",
+          "title": "Chinese Calligraphy Masterclass",
+          "author": "Wei Lin",
+          "news": "twitter"
+        },
+        {
+          "country": "china",
+          "urlToImage": "https://source.unsplash.com/500x300/?china",
+          "title": "Discovering Ancient Chinese Traditions",
+          "author": "Yuan Chen",
+          "news": "tesla"
+        },
+        {
+          "country": "nz",
+          "urlToImage": "https://source.unsplash.com/500x300/?nz",
+          "title": "Exploring Natural Wonders in New Zealand",
+          "author": "Liam Thompson",
+          "news": "twitter"
+        },
+        {
+          "country": "nz",
+          "urlToImage": "https://source.unsplash.com/500x300/?nz",
+          "title": "Maori Culture and Heritage",
+          "author": "Kia Ora",
+          "news": "tesla"
+        },
+        {
+          "country": "nz",
+          "urlToImage": "https://source.unsplash.com/500x300/?nz",
+          "title": "Adventure Sports in New Zealand",
+          "author": "Sarah Williams",
+          "news": "twitter"
+        },
+        {
+          "country": "nz",
+          "urlToImage": "https://source.unsplash.com/500x300/?nz",
+          "title": "Wildlife Sanctuaries in New Zealand",
+          "author": "Jack Thompson",
+          "news": "tesla"
+        },
+        {
+          "country": "nz",
+          "urlToImage": "https://source.unsplash.com/500x300/?nz",
+          "title": "Māori Performing Arts",
+          "author": "Aroha Smith",
+          "news": "twitter"
+        }
+      
+      
     ]
   
   
